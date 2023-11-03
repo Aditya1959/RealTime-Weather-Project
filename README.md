@@ -3,11 +3,8 @@
 
 ## Description:
 
-This web application fulfill the purpose of retrieving data from another application's API to provide 5 days of forecast saved with localstorage.
+Designed and developed a real-time weather forecasting website using HTML, CSS, and JavaScript. This project seamlessly integrates live weather data, offering users up-to-the-minute updates on temperature, humidity, wind speed, and more. The responsive HTML and CSS design ensures a user-friendly experience on various devices. JavaScript is utilized to fetch and display real-time weather information, enhancing the site's interactivity. Users can search for weather forecasts by location, providing a personalized experience.
 
-## Installation:
-
-No special packages needed. It runs with vanilla javascript.
 
 ## Usage:
 
